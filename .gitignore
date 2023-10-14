@@ -1,0 +1,12 @@
+.DS_Store
+
+
+.flaskenv
+
+
+app.db
+
+#folders
+logs
+__pycache__
+venv
